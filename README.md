@@ -13,8 +13,23 @@ This project focuses on performing exploratory data analysis (EDA) on Air Bnb Bo
  The analysis of the Airbnb dataset provides valuable insights into market trends, pricing strategies, and guest behaviors, which can help hosts optimize their listings and guests make informed choices.
  
 # Technologies Used
-Python
-Pandas
-Matplotlib
-Seaborn
+1. Python
+2. Pandas
+3. Matplotlib
+4. Seaborn
+
+# Usage
+
+To run the analysis:
+
+1. Clone the repository.
+2. Run the Jupyter Notebook to explore the dataset and view the analysis results.
+
+# Contributing
+
+Contributions to the project are welcomed via pull requests, bug reports, feature requests, and feedback on improving analysis methodologies and insights.
+
+# Acknowledgements
+
+Special thanks to the AlmaBetter Team for providing the Airbnb dataset used in this analysis
 
