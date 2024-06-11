@@ -1,2 +1,2 @@
-# EDA-PROJECT
-Numerical programming capstone project
+# EDA ON AIR BNB BOOKING ANALYSIS
+# AIR BNB BOOKING ANALYSIS
